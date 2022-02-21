@@ -32,6 +32,3 @@
 ### 因子分析の現実世界の応用例
 - 性格診断
 - マーケティングの商品の分析
-
-## python
-https://github.com/iimuragumi/hello-world/blob/master/factor_analysis.ipynb

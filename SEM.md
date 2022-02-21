@@ -82,6 +82,3 @@
 ## 引用
 - https://qiita.com/deaikei/items/9e5de7f97c5e0a061c5d
 - https://semopy.readthedocs.io/en/latest/source./semopy.html#module-semopy.visualization
-
-## python
-https://github.com/iimuragumi/hello-world/blob/master/sem.ipynb
